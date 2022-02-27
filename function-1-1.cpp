@@ -7,5 +7,8 @@ void hello(){
     // cout is defined in the namespace std   
     
     // use cout to print "Object-Oriented Programming".  
+    
+    std::cout<<"Object-Oriented Programming \n"
+        
 
 }
